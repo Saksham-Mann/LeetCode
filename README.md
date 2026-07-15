@@ -7,6 +7,7 @@ Tracking my LeetCode progress and problem-solving journey.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Saksham-Mann/LeetCode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Saksham-Mann/LeetCode/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -15,4 +16,12 @@ Tracking my LeetCode progress and problem-solving journey.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Saksham-Mann/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Saksham-Mann/LeetCode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Saksham-Mann/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
