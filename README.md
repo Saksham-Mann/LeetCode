@@ -8,6 +8,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | ------- |
 | [0007-reverse-integer](https://github.com/Saksham-Mann/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Saksham-Mann/LeetCode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0263-ugly-number) |
 ## Linked List
 |  |
@@ -21,6 +22,7 @@ Tracking my LeetCode progress and problem-solving journey.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Saksham-Mann/LeetCode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -41,4 +43,8 @@ Tracking my LeetCode progress and problem-solving journey.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Saksham-Mann/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
