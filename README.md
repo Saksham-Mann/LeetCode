@@ -8,6 +8,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | ------- |
 | [0007-reverse-integer](https://github.com/Saksham-Mann/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Saksham-Mann/LeetCode/tree/master/0013-roman-to-integer) |
+| [0263-ugly-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0263-ugly-number) |
 ## Linked List
 |  |
 | ------- |
