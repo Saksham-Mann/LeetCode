@@ -8,6 +8,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | ------- |
 | [0007-reverse-integer](https://github.com/Saksham-Mann/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Saksham-Mann/LeetCode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Saksham-Mann/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0263-ugly-number) |
 ## Linked List
@@ -28,6 +29,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | ------- |
 | [0013-roman-to-integer](https://github.com/Saksham-Mann/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Saksham-Mann/LeetCode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Saksham-Mann/LeetCode/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
@@ -49,4 +51,12 @@ Tracking my LeetCode progress and problem-solving journey.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0202-happy-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Saksham-Mann/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Saksham-Mann/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
