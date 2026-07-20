@@ -11,6 +11,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | [0067-add-binary](https://github.com/Saksham-Mann/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0263-ugly-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Saksham-Mann/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
 | ------- |
@@ -59,4 +60,8 @@ Tracking my LeetCode progress and problem-solving journey.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Saksham-Mann/LeetCode/tree/master/0067-add-binary) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Saksham-Mann/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
