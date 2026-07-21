@@ -11,6 +11,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | [0067-add-binary](https://github.com/Saksham-Mann/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0263-ugly-number) |
+| [0509-fibonacci-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saksham-Mann/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
@@ -20,6 +21,7 @@ Tracking my LeetCode progress and problem-solving journey.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Saksham-Mann/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +68,12 @@ Tracking my LeetCode progress and problem-solving journey.
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saksham-Mann/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
