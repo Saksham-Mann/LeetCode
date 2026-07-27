@@ -79,4 +79,8 @@ Tracking my LeetCode progress and problem-solving journey.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saksham-Mann/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
