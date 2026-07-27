@@ -10,6 +10,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | [0009-palindrome-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Saksham-Mann/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Saksham-Mann/LeetCode/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/Saksham-Mann/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0509-fibonacci-number) |
@@ -59,6 +60,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saksham-Mann/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Saksham-Mann/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Saksham-Mann/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
@@ -84,5 +86,6 @@ Tracking my LeetCode progress and problem-solving journey.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saksham-Mann/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Saksham-Mann/LeetCode/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saksham-Mann/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
