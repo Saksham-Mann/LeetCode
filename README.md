@@ -57,6 +57,7 @@ Tracking my LeetCode progress and problem-solving journey.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Saksham-Mann/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Saksham-Mann/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0202-happy-number) |
 ## Bit Manipulation
@@ -82,5 +83,6 @@ Tracking my LeetCode progress and problem-solving journey.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Saksham-Mann/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saksham-Mann/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
