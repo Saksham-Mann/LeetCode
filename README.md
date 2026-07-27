@@ -18,10 +18,12 @@ Tracking my LeetCode progress and problem-solving journey.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Saksham-Mann/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Saksham-Mann/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Saksham-Mann/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Saksham-Mann/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
