@@ -62,6 +62,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | [0125-valid-palindrome](https://github.com/Saksham-Mann/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Saksham-Mann/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Saksham-Mann/LeetCode/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,5 +88,6 @@ Tracking my LeetCode progress and problem-solving journey.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saksham-Mann/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Saksham-Mann/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Saksham-Mann/LeetCode/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saksham-Mann/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
