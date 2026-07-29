@@ -10,8 +10,4 @@ class Solution:
                 count+=1
             else:
                 count-=1
-        maj=nums.count(num)
-        if (maj>(len(nums)//2)):
-            return num
-        else:
-            return -1
+        return num
