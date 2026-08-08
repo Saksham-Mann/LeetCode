@@ -3,8 +3,8 @@ class Solution:
         result=[]
         c1=0
         c2=0
-        e1=float('-inf')
-        e2=float('-inf')
+        e1=None
+        e2=None
         for i in range(len(nums)):
             if c1==0 and nums[i]!=e2:
                 c1+=1
