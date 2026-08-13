@@ -112,6 +112,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | [0048-rotate-image](https://github.com/Saksham-Mann/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Saksham-Mann/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Saksham-Mann/LeetCode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Saksham-Mann/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Saksham-Mann/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Saksham-Mann/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Saksham-Mann/LeetCode/tree/master/0118-pascals-triangle) |
@@ -131,6 +132,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | ------- |
 | [0015-3sum](https://github.com/Saksham-Mann/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Saksham-Mann/LeetCode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Saksham-Mann/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Saksham-Mann/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Saksham-Mann/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Saksham-Mann/LeetCode/tree/master/0229-majority-element-ii) |
@@ -162,4 +164,8 @@ Tracking my LeetCode progress and problem-solving journey.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Saksham-Mann/LeetCode/tree/master/0229-majority-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Saksham-Mann/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
