@@ -126,6 +126,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | [0229-majority-element-ii](https://github.com/Saksham-Mann/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Saksham-Mann/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Saksham-Mann/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Saksham-Mann/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Saksham-Mann/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saksham-Mann/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Saksham-Mann/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -144,6 +145,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | ------- |
 | [0053-maximum-subarray](https://github.com/Saksham-Mann/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Saksham-Mann/LeetCode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Saksham-Mann/LeetCode/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -171,4 +173,28 @@ Tracking my LeetCode progress and problem-solving journey.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Saksham-Mann/LeetCode/tree/master/0056-merge-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Saksham-Mann/LeetCode/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Saksham-Mann/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Saksham-Mann/LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Saksham-Mann/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Saksham-Mann/LeetCode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Saksham-Mann/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
