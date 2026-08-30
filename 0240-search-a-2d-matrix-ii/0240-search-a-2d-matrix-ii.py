@@ -10,4 +10,4 @@ class Solution:
                 row+=1
             else:
                 column-=1
-        return False
+        return False #same code gets different runtime...
