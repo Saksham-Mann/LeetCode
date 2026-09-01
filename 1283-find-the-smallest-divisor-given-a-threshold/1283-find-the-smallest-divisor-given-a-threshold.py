@@ -5,7 +5,7 @@ class Solution:
         low=1
         high=max(nums)
         while low<=high:
-            mid=(low+high)//2
+            mid=(low+high)>>1
             s=sum(math.ceil(nums[i]/mid) for i in range(len(nums)))
             if s<=threshold:
                 ans=mid
