@@ -15,6 +15,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | [0202-happy-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Saksham-Mann/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saksham-Mann/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
@@ -47,6 +48,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | [0125-valid-palindrome](https://github.com/Saksham-Mann/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Saksham-Mann/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Saksham-Mann/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Saksham-Mann/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -245,6 +247,7 @@ Tracking my LeetCode progress and problem-solving journey.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Saksham-Mann/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/Saksham-Mann/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
