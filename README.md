@@ -45,11 +45,13 @@ Tracking my LeetCode progress and problem-solving journey.
 | [0020-valid-parentheses](https://github.com/Saksham-Mann/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Saksham-Mann/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Saksham-Mann/LeetCode/tree/master/0125-valid-palindrome) |
+| [1021-remove-outermost-parentheses](https://github.com/Saksham-Mann/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saksham-Mann/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Saksham-Mann/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/Saksham-Mann/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -241,4 +243,8 @@ Tracking my LeetCode progress and problem-solving journey.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Saksham-Mann/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Saksham-Mann/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
