@@ -13,6 +13,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | [0067-add-binary](https://github.com/Saksham-Mann/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Saksham-Mann/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Saksham-Mann/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Saksham-Mann/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -27,6 +28,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Saksham-Mann/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Saksham-Mann/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Saksham-Mann/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -97,6 +99,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | ------- |
 | [0067-add-binary](https://github.com/Saksham-Mann/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Saksham-Mann/LeetCode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
