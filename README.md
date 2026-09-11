@@ -19,6 +19,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | [0263-ugly-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Saksham-Mann/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Saksham-Mann/LeetCode/tree/master/1922-count-good-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saksham-Mann/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
@@ -33,6 +34,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | [0206-reverse-linked-list](https://github.com/Saksham-Mann/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Saksham-Mann/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Saksham-Mann/LeetCode/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
