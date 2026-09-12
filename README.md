@@ -15,6 +15,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | [0067-add-binary](https://github.com/Saksham-Mann/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Saksham-Mann/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Saksham-Mann/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Saksham-Mann/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Saksham-Mann/LeetCode/tree/master/0509-fibonacci-number) |
@@ -118,6 +119,7 @@ Tracking my LeetCode progress and problem-solving journey.
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Saksham-Mann/LeetCode/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saksham-Mann/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -161,6 +163,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | [0162-find-peak-element](https://github.com/Saksham-Mann/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Saksham-Mann/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Saksham-Mann/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Saksham-Mann/LeetCode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Saksham-Mann/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saksham-Mann/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Saksham-Mann/LeetCode/tree/master/0283-move-zeroes) |
@@ -300,4 +303,20 @@ Tracking my LeetCode progress and problem-solving journey.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Saksham-Mann/LeetCode/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Saksham-Mann/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Saksham-Mann/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Saksham-Mann/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Saksham-Mann/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
