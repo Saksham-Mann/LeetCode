@@ -30,6 +30,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Saksham-Mann/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Saksham-Mann/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Saksham-Mann/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Saksham-Mann/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Saksham-Mann/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Saksham-Mann/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saksham-Mann/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -111,6 +112,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Saksham-Mann/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saksham-Mann/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Saksham-Mann/LeetCode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/Saksham-Mann/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Saksham-Mann/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Saksham-Mann/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Saksham-Mann/LeetCode/tree/master/0125-valid-palindrome) |
