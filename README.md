@@ -91,6 +91,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saksham-Mann/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Saksham-Mann/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/Saksham-Mann/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Saksham-Mann/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Saksham-Mann/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saksham-Mann/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -355,4 +356,12 @@ Tracking my LeetCode progress and problem-solving journey.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Saksham-Mann/LeetCode/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Saksham-Mann/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Saksham-Mann/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
