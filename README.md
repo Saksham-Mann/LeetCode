@@ -31,6 +31,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | [0021-merge-two-sorted-lists](https://github.com/Saksham-Mann/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Saksham-Mann/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Saksham-Mann/LeetCode/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Saksham-Mann/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Saksham-Mann/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Saksham-Mann/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saksham-Mann/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -59,6 +60,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | [0013-roman-to-integer](https://github.com/Saksham-Mann/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Saksham-Mann/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Saksham-Mann/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/Saksham-Mann/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Saksham-Mann/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saksham-Mann/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Saksham-Mann/LeetCode/tree/master/0169-majority-element) |
