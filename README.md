@@ -314,6 +314,7 @@ Tracking my LeetCode progress and problem-solving journey.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Saksham-Mann/LeetCode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Saksham-Mann/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saksham-Mann/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
