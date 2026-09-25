@@ -69,6 +69,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | [0229-majority-element-ii](https://github.com/Saksham-Mann/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Saksham-Mann/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Saksham-Mann/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Saksham-Mann/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Saksham-Mann/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -93,6 +94,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | [0094-binary-tree-inorder-traversal](https://github.com/Saksham-Mann/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Saksham-Mann/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Saksham-Mann/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Saksham-Mann/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Saksham-Mann/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saksham-Mann/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -200,6 +202,7 @@ Tracking my LeetCode progress and problem-solving journey.
 | [0410-split-array-largest-sum](https://github.com/Saksham-Mann/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Saksham-Mann/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Saksham-Mann/LeetCode/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/Saksham-Mann/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saksham-Mann/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Saksham-Mann/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Saksham-Mann/LeetCode/tree/master/0704-binary-search) |
@@ -365,4 +368,8 @@ Tracking my LeetCode progress and problem-solving journey.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Saksham-Mann/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Saksham-Mann/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
